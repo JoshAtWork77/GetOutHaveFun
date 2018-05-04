@@ -1,0 +1,6 @@
+# Ignore target directory
+**/target
+#ignore hidden files in source dir
+getouthavefun_webapp/.project
+getouthavefun_webapp/.settings
+getouthavefun_webapp/.classpath
